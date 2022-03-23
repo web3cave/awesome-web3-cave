@@ -17,10 +17,10 @@
 
 # Contract 
 
-`Polygon:  https://polygonscan.com/`
+Polygon:
 
-- OpenSea NFT [Visit](https://opensea.io/collection/web3-cave)
+- OpenSea NFT [https://opensea.io/collection/web3-cave](https://opensea.io/collection/web3-cave)
 
-- Proxy Address: `0x491eE952eC089E2677e0D44Db53269Be6AEEE1d0`
+- Proxy Address: `https://polygonscan.com/address/0x491eE952eC089E2677e0D44Db53269Be6AEEE1d0`
 
-- Contract Address: `0x7235d94b6b436898c5f814911805f868c86d7584`
+- Contract Address: `https://polygonscan.com/address/0x7235d94b6b436898c5f814911805f868c86d7584`
